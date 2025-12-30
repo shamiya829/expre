@@ -1,0 +1,8 @@
+KPI,Category,Definition,Why it matters,Collection method,Owner
+Footfall, Demand,Visits to a zone/time period,Measures demand and seasonality,Counters/estimates,Ops/Marketing
+Dwell time, Demand,Avg time on site or in node,Correlates with spend and loyalty,WiFi/sensors/surveys,Ops
+Queue time, Friction,Avg wait time at key points,Long waits destroy experience and conversion,Observations/system data,Ops
+Conversion rate, Conversion,% of visitors who buy/ticket,Connects experience to revenue,POS/ticketing,Tenants/Ops
+Revisit rate, Loyalty,% returning visitors over period,Signals stickiness and brand strength,App/loyalty/surveys,Marketing
+NPS, Loyalty,Net promoter score,Tracks advocacy and satisfaction,Survey,Marketing
+
